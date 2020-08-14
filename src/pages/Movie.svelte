@@ -7,5 +7,5 @@
 {#if params}
 	Movie {params.id}
 {:else}
-	Movie
+	Movie no params
 {/if}

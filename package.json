@@ -5,6 +5,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "graphql": "^15.2.0",
     "page": "^1.11.6",
     "svelte": "^3.21.0"
   },
